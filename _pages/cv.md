@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B Tech in Electrical Engineering, Indian Institute of Technology Roorkee, 2011
+* M.S. in Computer Science, KTH Royal Institute of University, Stockholm 2017
+* Ph.D in Computational Science, Aalto University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Autumn 2015: Teaching Assistant
+  * Information Retrieval, Artifical Neural Networks
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2020: Teaching Assistant
+  * Bayesian Data Analysis
+  * Duties included: Helping edit assignments, conducting tutorial
+  * Supervisor: Aki Vehtari
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB, C++
+
 
 Publications
 ======
