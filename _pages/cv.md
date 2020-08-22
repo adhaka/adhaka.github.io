@@ -17,19 +17,25 @@ Education
 
 Work experience
 ======
-* Autumn 2015: Teaching Assistant
-  * Information Retrieval, Artifical Neural Networks
-  * Duties included: Tagging issues
+* 2018-2018: Research Scientist Intern-Amazon Cambridge
+  * GP Models
+  * Read about Supply Chain Optimisation Automation using Reinforcement Learning
 
-* 2017-2020: Teaching Assistant
-  * Bayesian Data Analysis
-  * Duties included: Helping edit assignments, conducting tutorial
-  * Supervisor: Aki Vehtari
-  
+
+* 2012-2013: Lead Engineer -InfoEdge
+  * Building ML pipeline and internal algorithms to improve search and recommendation
+  * Technology: SOLR, Python, JAVA
+
+
+* 2011-2012: Software Engineer-PayU
+  * contributed to building payment gateway
+  * Technology: PHP, MySQL, Bootstrap.js
+
 Skills
 ======
 * Python
 * MATLAB, C++
+* PHP, MySQL, MongoDB
 
 
 Publications
@@ -37,19 +43,15 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
+name: 'Information Retrieval'
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Royal Institute of Technology KTH, Csc"
+date: 2016
+location: "Stockholm"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
