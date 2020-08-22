@@ -1,6 +1,5 @@
 ---
-title: "Teaching Assistant"
-name: 'Information Retrieval'
+title: "Teaching Assistant-Information Retrieval"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 venue: "Royal Institute of Technology KTH, Csc"

@@ -1,6 +1,5 @@
 ---
-title: "Teaching Assistant"
-name: 'Artificial Neural Networks'
+title: "Teaching Assistant -Artificial Neural Networks"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1

@@ -1,6 +1,5 @@
 ---
-title: "Teaching Assistant"
-name: 'Bayesian Data Analysis'
+title: "Teaching Assistant-Bayesian Data Analysis"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 venue: "Aalto University, Csc"
