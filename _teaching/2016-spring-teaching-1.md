@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant -Artificial Neural Networks"
 collection: teaching
-type: "Undergraduate course"
+type: "Masters course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "KTH, CSc"
 date: 2016-01-01
